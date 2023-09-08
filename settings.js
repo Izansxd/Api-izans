@@ -3,7 +3,7 @@ require('dotenv').config()
 
 //_______________________ ┏  Info  ┓ _______________________\\
 //
-//   Credit : AlipBot
+//   Credit : Izansxd
 //   
 //   Note 
 //   Jangan Jual SC ini ,
@@ -11,7 +11,7 @@ require('dotenv').config()
 //   Siapa Mahu Upload Jangan Lupa Credit :),
 //   Siapa Tidak Letak Credit Akan Ambil Tindakan
 //   
-//_______________________ ┏ Make By AlipBot ┓ _______________________\\
+//_______________________ ┏ Make By Izansxd ┓ _______________________\\
 
 
 
@@ -19,7 +19,7 @@ require('dotenv').config()
 
 //_______________________ ┏  Main Setting  ┓ _______________________\\
 
-creator = '乂𝘼𝙡𝙞𝙥乂' // Nama 
+creator = 'Izansxd' // Nama 
 port = 8080 //port host
 LimitApikey = 200 // Limit Apikey default
 
