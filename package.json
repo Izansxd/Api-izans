@@ -1,7 +1,7 @@
 {
-  "name": "rest-api-alpis",
+  "name": "rest-api-izans",
   "version": "2.0.0",
-  "description": "make by alip free rest api",
+  "description": "make by izans free rest api",
   "main": "index.js",
   "engines": {
     "node": "18.x"
